@@ -24,14 +24,18 @@ Primary Metrics: Tracked Total Revenue (78.59M), Total Orders (121K), and Averag
 
 Trend Analysis: Visualized monthly revenue growth and top-performing product categories.
 
+<img width="617" height="617" alt="overview" src="https://github.com/user-attachments/assets/3c1b6b4b-702f-4025-ac4d-4d2222354f16" />
+
 Page 2: Insights & Optimization
 Root Cause Analysis: Used a Decomposition Tree to drill down into revenue drivers across fulfillment methods and sizes.
 
 Operational Efficiency: Identified high-risk areas using a Heatmap Matrix to analyze Cancellation Rates by Category and Size.
+<img width="772" height="715" alt="insights" src="https://github.com/user-attachments/assets/2b0dbd94-6273-4e3c-af2d-28142dacd1e9" />
 
 Page 3: Market Segmentation (SQL-Driven)
 Strategic Targeting: Classified markets to optimize marketing spend, identifying Maharashtra as the top-tier revenue contributor.
 
+<img width="1082" height="632" alt="sql_segmentation" src="https://github.com/user-attachments/assets/fd605839-7982-4052-b7d2-6d3cd548910c" />
 
 🔗 How to Access
 Interactive Report: [Link to Power BI Service - Paste your link here]
