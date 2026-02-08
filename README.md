@@ -32,8 +32,6 @@ Operational Efficiency: Identified high-risk areas using a Heatmap Matrix to ana
 Page 3: Market Segmentation (SQL-Driven)
 Strategic Targeting: Classified markets to optimize marketing spend, identifying Maharashtra as the top-tier revenue contributor.
 
-🖼️ Preview
-(Sói hãy dán link ảnh của em vào đây để nó hiện lên nhé)
 
 🔗 How to Access
 Interactive Report: [Link to Power BI Service - Paste your link here]
@@ -42,4 +40,3 @@ SQL Queries: Located in the /sql directory.
 
 Python Scripts: Located in the /scripts directory.
 
-Contact: [Your Name/Sói] | [Your LinkedIn Link]
