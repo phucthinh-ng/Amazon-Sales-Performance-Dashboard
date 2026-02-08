@@ -37,8 +37,11 @@ Strategic Targeting: Classified markets to optimize marketing spend, identifying
 
 <img width="1082" height="632" alt="sql_segmentation" src="https://github.com/user-attachments/assets/fd605839-7982-4052-b7d2-6d3cd548910c" />
 
-🔗 How to Access
-Interactive Report: [Link to Power BI Service - Paste your link here]
+Maharashtra is the top-performing market, contributing X% of total revenue.
+
+Product category 'Set' shows the highest cancellation rate, requiring operational focus.
+
+Market segmentation identified 3 key tiers to optimize marketing budget allocation.
 
 SQL Queries: Located in the /sql directory.
 
