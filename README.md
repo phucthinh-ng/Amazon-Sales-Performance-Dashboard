@@ -37,7 +37,7 @@ Strategic Targeting: Classified markets to optimize marketing spend, identifying
 
 <img width="1082" height="632" alt="sql_segmentation" src="https://github.com/user-attachments/assets/fd605839-7982-4052-b7d2-6d3cd548910c" />
 
-Maharashtra is the top-performing market, contributing X% of total revenue.
+Identifying Maharashtra as the primary market contributor, significantly outperforming other states in both revenue and order volume.
 
 Product category 'Set' shows the highest cancellation rate, requiring operational focus.
 
@@ -46,4 +46,8 @@ Market segmentation identified 3 key tiers to optimize marketing budget allocati
 SQL Queries: Located in the /sql directory.
 
 Python Scripts: Located in the /scripts directory.
+
+## 📊 Data Source
+- **Raw Dataset:** Due to GitHub's file size limitations, the full dataset (Amazon Sale Report) is hosted on Google Drive. You can access it [here](https://drive.google.com/drive/folders/1zdfVKd0XfP-YfAHVcrSp6GCAQcCIYQSk?usp=drive_link).
+- **Processed Data:** The cleaned version used for the Power BI report is also included in the link above.
 
